@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "adventure-game": {
+      "command": "/home/ali/Desktop/Choose-Your-Own-Adventure-AI/backend/venv/bin/python",
+      "args": ["/home/ali/Desktop/Choose-Your-Own-Adventure-AI/backend/mcp_server.py"],
+      "env": {}
+    }
+  }
+}
